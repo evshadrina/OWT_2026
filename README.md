@@ -8,6 +8,8 @@ https://github.com/vmarshirov/g06u28/tree/main/task_01
 
 <h2> Дедлайн для гр 4,5 21 отктября</h2> - Ведомость https://github.com/evshadrina/OWT_2026/blob/main/OWT_ShadrinaEV_21_10_2026.xlsx
 <h2> можно досрочно 14 октября</h2
-                              
+
+<h1>Требования к сдаче КР2 </h1>
+https://github.com/vmarshirov/g06u28/blob/main/task_02/ReadMe.md
 
   
