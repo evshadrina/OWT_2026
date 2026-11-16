@@ -12,6 +12,8 @@ https://github.com/vmarshirov/g06u28/tree/main/task_01
 <h2>Требования к сдаче КР2 </h2>
 https://github.com/vmarshirov/g06u28/blob/main/task_02/ReadMe.md
 
+примеры тут https://github.com/evshadrina/master_class-filter
+
 <h2> Дедлайн для гр 4,5 9 декабря 2026</h2>
 <h2> можно досрочно 2 декабря</h2
 
